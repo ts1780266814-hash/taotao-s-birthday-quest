@@ -1,0 +1,11 @@
+export const TILE = 32;
+export const GRAVITY = 0.6;
+export const PLAYER_SPEED = 3.5;
+export const JUMP_FORCE = -11;
+export const DASH_SPEED = 12;
+export const DASH_DURATION = 8;
+export const DASH_COOLDOWN = 30;
+export const MAX_FALL_SPEED = 10;
+export const CANVAS_W = 800;
+export const CANVAS_H = 450;
+export const STOMP_BOUNCE = -8;
